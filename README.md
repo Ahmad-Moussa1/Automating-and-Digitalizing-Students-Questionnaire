@@ -1,0 +1,1 @@
+The script parse excel temporary files that contain Questionnaire responses from the students and map the qualitative values into quantitative values to be ready for analysis. the outputs are stored in separate excel sheet that is linked to  another analysis sheets.
